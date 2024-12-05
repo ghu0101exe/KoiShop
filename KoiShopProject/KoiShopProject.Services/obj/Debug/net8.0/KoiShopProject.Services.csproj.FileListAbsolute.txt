@@ -1,0 +1,15 @@
+D:\CNPM\KoiShopProject\KoiShopProject\KoiShopProject.Services\bin\Debug\net8.0\KoiShopProject.Services.deps.json
+D:\CNPM\KoiShopProject\KoiShopProject\KoiShopProject.Services\bin\Debug\net8.0\KoiShopProject.Services.dll
+D:\CNPM\KoiShopProject\KoiShopProject\KoiShopProject.Services\bin\Debug\net8.0\KoiShopProject.Services.pdb
+D:\CNPM\KoiShopProject\KoiShopProject\KoiShopProject.Services\obj\Debug\net8.0\KoiShopProject.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\CNPM\KoiShopProject\KoiShopProject\KoiShopProject.Services\obj\Debug\net8.0\KoiShopProject.Services.AssemblyInfoInputs.cache
+D:\CNPM\KoiShopProject\KoiShopProject\KoiShopProject.Services\obj\Debug\net8.0\KoiShopProject.Services.AssemblyInfo.cs
+D:\CNPM\KoiShopProject\KoiShopProject\KoiShopProject.Services\obj\Debug\net8.0\KoiShopProject.Services.csproj.CoreCompileInputs.cache
+D:\CNPM\KoiShopProject\KoiShopProject\KoiShopProject.Services\obj\Debug\net8.0\KoiShopProject.Services.dll
+D:\CNPM\KoiShopProject\KoiShopProject\KoiShopProject.Services\obj\Debug\net8.0\refint\KoiShopProject.Services.dll
+D:\CNPM\KoiShopProject\KoiShopProject\KoiShopProject.Services\obj\Debug\net8.0\KoiShopProject.Services.pdb
+D:\CNPM\KoiShopProject\KoiShopProject\KoiShopProject.Services\obj\Debug\net8.0\ref\KoiShopProject.Services.dll
+D:\CNPM\KoiShopProject\KoiShopProject\KoiShopProject.Services\bin\Debug\net8.0\KoiShopProject.Repositories.dll
+D:\CNPM\KoiShopProject\KoiShopProject\KoiShopProject.Services\bin\Debug\net8.0\KoiShopProject.Repositories.pdb
+D:\CNPM\KoiShopProject\KoiShopProject\KoiShopProject.Services\obj\Debug\net8.0\KoiShopProject.Services.csproj.AssemblyReference.cache
+D:\CNPM\KoiShopProject\KoiShopProject\KoiShopProject.Services\obj\Debug\net8.0\KoiShopP.CDE4CF81.Up2Date

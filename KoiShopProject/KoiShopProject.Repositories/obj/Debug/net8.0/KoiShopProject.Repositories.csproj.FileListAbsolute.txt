@@ -1,0 +1,14 @@
+D:\CNPM\KoiShopProject\KoiShopProject\KoiShopProject.Repositories\bin\Debug\net8.0\KoiShopProject.Repositories.deps.json
+D:\CNPM\KoiShopProject\KoiShopProject\KoiShopProject.Repositories\bin\Debug\net8.0\KoiShopProject.Repositories.dll
+D:\CNPM\KoiShopProject\KoiShopProject\KoiShopProject.Repositories\bin\Debug\net8.0\KoiShopProject.Repositories.pdb
+D:\CNPM\KoiShopProject\KoiShopProject\KoiShopProject.Repositories\obj\Debug\net8.0\KoiShopProject.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\CNPM\KoiShopProject\KoiShopProject\KoiShopProject.Repositories\obj\Debug\net8.0\KoiShopProject.Repositories.AssemblyInfoInputs.cache
+D:\CNPM\KoiShopProject\KoiShopProject\KoiShopProject.Repositories\obj\Debug\net8.0\KoiShopProject.Repositories.AssemblyInfo.cs
+D:\CNPM\KoiShopProject\KoiShopProject\KoiShopProject.Repositories\obj\Debug\net8.0\KoiShopProject.Repositories.csproj.CoreCompileInputs.cache
+D:\CNPM\KoiShopProject\KoiShopProject\KoiShopProject.Repositories\obj\Debug\net8.0\KoiShopProject.Repositories.dll
+D:\CNPM\KoiShopProject\KoiShopProject\KoiShopProject.Repositories\obj\Debug\net8.0\refint\KoiShopProject.Repositories.dll
+D:\CNPM\KoiShopProject\KoiShopProject\KoiShopProject.Repositories\obj\Debug\net8.0\KoiShopProject.Repositories.pdb
+D:\CNPM\KoiShopProject\KoiShopProject\KoiShopProject.Repositories\obj\Debug\net8.0\ref\KoiShopProject.Repositories.dll
+D:\CNPM\KoiShopProject\KoiShopProject\KoiShopProject.Repositories\bin\Debug\net8.0\KoiShopProject.Repositories.runtimeconfig.json
+D:\CNPM\KoiShopProject\KoiShopProject\KoiShopProject.Repositories\obj\Debug\net8.0\KoiShopProject.Repositories.csproj.AssemblyReference.cache
+D:\CNPM\KoiShopProject\KoiShopProject\KoiShopProject.Repositories\obj\Debug\net8.0\KoiShopProject.Repositories.genruntimeconfig.cache

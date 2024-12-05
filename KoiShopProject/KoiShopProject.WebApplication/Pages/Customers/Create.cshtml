@@ -1,0 +1,81 @@
+﻿@page
+@model KoiShopProject.WebApplication.Pages.Customers.CreateModel
+@{
+    ViewData["Title"] = "TaoTaiKhoan";
+}
+<div style="min-height:10px;">
+</div>
+<div id="banner">
+    <div class="container-xxl flex-grow-1 container-p-y">
+        @* <h4 class="fw-bold py-3 mb-4"><span class="text-muted fw-light"></span> Create new account</h4> *@
+        <h2 style="color: black">Create new account</h2>
+        <!-- Basic Layout -->
+        <div class="row">
+            <div class="col-xl">
+                <div class="card mb-4">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <h5 class="mb-0">Enter Account Information</h5>
+                        <small class="text-muted float-end">Tạo Tài Khoản</small>
+                    </div>
+                    <div class="card-body">
+                        <form method="post">
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        
+                            <div class="mb-3">
+                                <label class="form-label" asp-for="Customer.CustomerName">Your Name :</label>
+                                <div class="input-group input-group-merge">
+                                    <span class="input-group-text">
+                                        <i class="bx bx-user"></i>
+                                    </span>
+                                    <input type="text"
+                                           class="form-control"
+                                           asp-for="Customer.CustomerName"
+                                           placeholder="John Doe" />
+                                    <span asp-validation-for="Customer.CustomerName" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <div class="mb-3">
+                                <label class="form-label" asp-for="Customer.Password">Password :</label>
+                                <div class="input-group input-group-merge">
+                                    <span class="input-group-text">
+                                        <i class="bx bx-buildings"></i>
+                                    </span>
+                                    <input type="password"
+                                           class="form-control"
+                                           asp-for="Customer.Password"
+                                           placeholder="Enter your password" />
+                                    <span asp-validation-for="Customer.Password" class="text-danger"></span>
+                                </div>
+                            </div>
+                        
+                            <div class="mb-3">
+                                <label class="form-label" asp-for="Customer.Phone">Your Phone Number :</label>
+                                <div class="input-group input-group-merge">
+                                    <span class="input-group-text">
+                                        <i class="bx bx-phone"></i>
+                                    </span>
+                                    <input type="text"
+                                           class="form-control phone-mask"
+                                           asp-for="Customer.Phone"
+                                           placeholder="+84 123" />
+                                    <span asp-validation-for="Customer.Phone" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <div class="mb-3">
+                                <label class="form-label" asp-for="Customer.Address">Your Address :</label>
+                                
+                                    <textarea class="form-control"
+                                              asp-for="Customer.Address"
+                                              placeholder="You can use letters, numbers & periods"></textarea>
+                            </div>
+                            <button type="submit" class="btn btn-primary">Create Account</button>
+                            <a asp-page="./Index" class="btn btn-secondary">Back to List</a>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

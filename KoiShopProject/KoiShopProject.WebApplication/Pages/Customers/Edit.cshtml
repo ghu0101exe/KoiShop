@@ -1,0 +1,88 @@
+﻿@page
+@model KoiShopProject.WebApplication.Pages.Customers.EditModel
+
+<div style="min-height:10px;">
+</div>
+
+<div id="wp-products">
+    <div class="container-xxl flex-grow-1 container-p-y">
+        <h2 style="color: white">Update Account</h2>
+        <div class="row">
+            <div class="col-xl">
+                <div class="card mb-4">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <h5 class="mb-0">Update Information</h5>
+                        <small class="text-muted float-end">Cập nhật tài khoản</small>
+                    </div>
+                    <div class="card-body">
+                        <form method="post">
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                            <input type="hidden" asp-for="Customer.CustomerId" />
+
+                            <div class="mb-3">
+                                <label class="form-label" asp-for="Customer.CustomerName">Customer Name:</label>
+                                <div class="input-group input-group-merge">
+                                    <span class="input-group-text">
+                                        <i class="bx bx-user"></i>
+                                    </span>
+                                    <input type="text" 
+                                           class="form-control" 
+                                           asp-for="Customer.CustomerName" 
+                                           placeholder="Enter customer name" />
+                                    <span asp-validation-for="Customer.CustomerName" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <div class="mb-3">
+                                <label class="form-label" asp-for="Customer.Password">Password:</label>
+                                <div class="input-group input-group-merge">
+                                    <span class="input-group-text">
+                                        <i class="bx bx-lock"></i>
+                                    </span>
+                                    <input type="password" 
+                                           class="form-control" 
+                                           asp-for="Customer.Password" 
+                                           placeholder="Enter password" />
+                                    <span asp-validation-for="Customer.Password" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <div class="mb-3">
+                                <label class="form-label" asp-for="Customer.Phone">Phone Number:</label>
+                                <div class="input-group input-group-merge">
+                                    <span class="input-group-text">
+                                        <i class="bx bx-phone"></i>
+                                    </span>
+                                    <input type="text" 
+                                           class="form-control phone-mask" 
+                                           asp-for="Customer.Phone" 
+                                           placeholder="Enter phone number" />
+                                    <span asp-validation-for="Customer.Phone" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <div class="mb-3">
+                                <label class="form-label" asp-for="Customer.Address">Address:</label>
+                                <div class="input-group input-group-merge">
+                                    <span class="input-group-text">
+                                        <i class="bx bx-home"></i>
+                                    </span>
+                                    <textarea class="form-control" 
+                                              asp-for="Customer.Address" 
+                                              placeholder="Enter address"></textarea>
+                                    <span asp-validation-for="Customer.Address" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <div class="mt-4">
+                                <button type="submit" class="btn btn-primary">Save Changes</button>
+                                <a asp-page="./Index" class="btn btn-secondary">Back to List</a>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

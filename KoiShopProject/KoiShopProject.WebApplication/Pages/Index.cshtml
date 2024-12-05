@@ -1,0 +1,168 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div id="banner">
+    <div class="box-left">
+        <h2>
+            <span>TRẠI CÁ KOI</span>
+            <br>
+            <span>HÀNG ĐẦU VIỆT NAM</span>
+        </h2>
+        <p>Chuyên cung cấp các giống cá koi Nhật nhập khẩu có chất lượng cao</p>
+        <a href="fishs"><button>Mua ngay</button></a>
+    </div>
+    <div class="box-right">
+        <img src="img/anh1.jpg" alt="">
+        <img src="img/anh2.jpg" alt="">
+        <img src="img/anh3.jpg" alt="">
+    </div>
+    <div class="to-bottom">
+        <a href="fishs">
+            <img src="img/button.png" alt="">
+        </a>
+    </div>
+</div>
+<div id="saleoff">
+    <div class="box-left">
+        <h1>
+            <span>GIẢM GIÁ LÊN ĐẾN</span>
+            <span>45%</span>
+        </h1>
+    </div>
+    <div class="box-right"></div>
+</div>
+
+
+<div id="wp-products">
+    <h2>
+        SẢN PHẨM CỦA CHÚNG TÔI
+        <form method="get">
+            <select class="form-select" asp-for="SelectedCategoryId" asp-items="@(new SelectList(Model.KoiCategoryList, "Id", "Name"))" onchange="this.form.submit()">
+                <option value="">Các loại cá koi</option>
+            </select>
+        </form>
+    </h2>
+    <ul id="list-products">
+        @foreach (var item in Model.FishList)
+        {
+            <div class="item">
+                <img src="@Html.DisplayFor(modelItem => item.Image)" alt="">
+                <div class="name">
+                    <p>Tên: @Html.DisplayFor(modelItem => item.Name)</p>
+                </div>
+                <div class="price">
+                    <p>Giá: @Html.DisplayFor(modelItem => item.Price)</p>
+                </div>
+            </div>
+        }
+    </ul>
+</div>
+<div id="comment">
+    <h2>NHẬN XÉT CỦA KHÁCH HÀNG</h2>
+    <div id="comment-body">
+        <div class="prev">
+            <a href="#">
+                <img src="img/prev.png" alt="">
+            </a>
+        </div>
+        <ul id="list-comment">
+            <li class="item">
+                <div class="avatar">
+                    <img src="img/avatar 1.png" alt="">
+                </div>
+                <div class="stars">
+                    <span>
+                        <img src="img/star1.png" alt="">
+                    </span>
+                    <span>
+                        <img src="img/star1.png" alt="">
+                    </span>
+                    <span>
+                        <img src="img/star1.png" alt="">
+                    </span>
+                    <span>
+                        <img src="img/star1.png" alt="">
+                    </span>
+                    <span>
+                        <img src="img/star1.png" alt="">
+                    </span>
+                </div>
+                <div class="name">Nguyễn Đức Bỉ</div>
+
+                <div class="text">
+                    <p>
+                        Cá quá đẹp. Quá đẳng cấp !!!
+                    </p>
+                </div>
+            </li>
+            <li class="item">
+                <div class="avatar">
+                    <img src="img/avatar 1.png" alt="">
+
+                </div>
+                <div class="stars">
+                    <span>
+                        <img src="img/star1.png" alt="">
+                    </span>
+                    <span>
+                        <img src="img/star1.png" alt="">
+                    </span>
+                    <span>
+                        <img src="img/star1.png" alt="">
+                    </span>
+                    <span>
+                        <img src="img/star1.png" alt="">
+                    </span>
+                    <span>
+                        <img src="img/star1.png" alt="">
+                    </span>
+                </div>
+                <div class="name">Kiên</div>
+
+                <div class="text">
+                    <p>
+                        Quá đẳng cấp. Cá quá đẹp !!!
+                    </p>
+                </div>
+            </li>
+            <li class="item">
+                <div class="avatar">
+                    <img src="img/avatar 1.png" alt="">
+
+                </div>
+                <div class="stars">
+                    <span>
+                        <img src="img/star1.png" alt="">
+                    </span>
+                    <span>
+                        <img src="img/star1.png" alt="">
+                    </span>
+                    <span>
+                        <img src="img/star1.png" alt="">
+                    </span>
+                    <span>
+                        <img src="img/star1.png" alt="">
+                    </span>
+                    <span>
+                        <img src="img/star1.png" alt="">
+                    </span>
+                </div>
+                <div class="name">Xuân Đạt</div>
+
+                <div class="text">
+                    <p>
+                        Cá quá đẹp và đẳng cấp !!!
+                    </p>
+                </div>
+            </li>
+        </ul>
+        <div class="next">
+            <a href="#">
+                <img src="img/next.png" alt="">
+            </a>
+        </div>
+    </div>
+</div>

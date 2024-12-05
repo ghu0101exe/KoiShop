@@ -1,0 +1,114 @@
+﻿@page
+@model KoiShopProject.WebApplication.Pages.Fishs.IndexModel
+<div style="min-height:100px;">
+</div>
+
+<div id="wp-products">
+    <h2>
+        SẢN PHẨM CỦA CHÚNG TÔI
+        <form method="get">
+            <select class="form-select" asp-for="SelectedCategoryId" asp-items="@(new SelectList(Model.KoiCategoryList, "Id", "Name"))" onchange="this.form.submit()">
+                <option value="">Các loại cá koi</option>
+            </select>
+        </form>
+    </h2>
+    <ul id="list-products">
+        @foreach (var item in Model.Fish)
+        {
+            <div class="item">
+                <img src="@Html.DisplayFor(modelItem => item.Image)" alt="">
+
+                <div class="name">
+                    <p>Tên: @Html.DisplayFor(modelItem => item.Name)</p>
+                </div>
+
+                <div class="price">
+                    <p>Giá: @Html.DisplayFor(modelItem => item.Price)</p>
+                </div>
+            </div>
+        }
+    </ul>
+</div>
+
+@* <p>
+    <a asp-page="Create">Create New</a>
+</p> *@
+@* 
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Fish[0].Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fish[0].Origin)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fish[0].Gender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fish[0].Age)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fish[0].Size)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fish[0].Breed)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fish[0].FoodAmountPerDay)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fish[0].Image)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fish[0].Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fish[0].IdCategoryNavigation)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Fish) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Origin)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Gender)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Age)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Size)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Breed)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FoodAmountPerDay)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Image)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdCategoryNavigation.Name)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.KoiId">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.KoiId">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.KoiId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table> *@

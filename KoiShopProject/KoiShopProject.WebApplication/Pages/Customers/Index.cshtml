@@ -1,0 +1,54 @@
+﻿@page
+@model KoiShopProject.WebApplication.Pages.Customers.IndexModel
+
+
+<div style="min-height:69px;">
+</div>
+<hr />
+
+<p>
+    <a class="btn rounded-pill btn-dark " asp-page="Create">Create New Account</a>
+</p>
+
+<table class="table" >
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Customer[0].CustomerName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Customer[0].CustomerId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Customer[0].Phone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Customer[0].Address)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Customer) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Phone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Address)
+            </td>
+            <td>
+                    <a class="btn rounded-pill btn-dark" asp-page="./Edit" asp-route-id="@item.CustomerId">Edit</a> |
+                    <a class="btn rounded-pill btn-dark" asp-page="./Details" asp-route-id="@item.CustomerId">Details</a> |
+                    <a class="btn rounded-pill btn-dark" asp-page="./Delete" asp-route-id="@item.CustomerId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

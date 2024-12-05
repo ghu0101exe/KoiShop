@@ -1,0 +1,1041 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\KoiShopProject.WebApplication.bundle.scp.css",
+      "PackagePath": "staticwebassets\\KoiShopProject.WebApplication.esoexbktet.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\css\\demo.css",
+      "PackagePath": "staticwebassets\\assets\\css\\demo.css"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\avatars\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\1.png"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\avatars\\5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\5.png"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\avatars\\6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\6.png"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\avatars\\7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\7.png"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\backgrounds\\18.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\backgrounds\\18.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\elements\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\1.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\elements\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\11.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\elements\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\12.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\elements\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\13.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\elements\\17.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\17.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\elements\\18.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\18.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\elements\\19.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\19.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\elements\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\2.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\elements\\20.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\20.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\elements\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\3.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\elements\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\4.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\elements\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\5.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\elements\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\7.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\favicon\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon\\favicon.ico"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\icons\\brands\\asana.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\asana.png"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\icons\\brands\\behance.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\behance.png"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\icons\\brands\\dribbble.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\dribbble.png"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\icons\\brands\\facebook.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\facebook.png"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\icons\\brands\\github.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\github.png"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\icons\\brands\\google.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\google.png"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\icons\\brands\\instagram.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\instagram.png"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\icons\\brands\\mailchimp.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\mailchimp.png"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\icons\\brands\\slack.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\slack.png"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\icons\\brands\\twitter.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\twitter.png"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\icons\\unicons\\cc-primary.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\unicons\\cc-primary.png"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\icons\\unicons\\cc-success.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\unicons\\cc-success.png"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\icons\\unicons\\cc-warning.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\unicons\\cc-warning.png"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\icons\\unicons\\chart-success.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\unicons\\chart-success.png"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\icons\\unicons\\chart.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\unicons\\chart.png"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\icons\\unicons\\paypal.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\unicons\\paypal.png"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\icons\\unicons\\wallet-info.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\unicons\\wallet-info.png"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\icons\\unicons\\wallet.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\unicons\\wallet.png"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\illustrations\\girl-doing-yoga-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\girl-doing-yoga-light.png"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\illustrations\\man-with-laptop-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\man-with-laptop-light.png"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\illustrations\\page-misc-error-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\page-misc-error-light.png"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\layouts\\layout-container-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\layouts\\layout-container-light.png"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\layouts\\layout-fluid-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\layouts\\layout-fluid-light.png"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\layouts\\layout-without-menu-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\layouts\\layout-without-menu-light.png"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\img\\layouts\\layout-without-navbar-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\layouts\\layout-without-navbar-light.png"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\js\\config.js",
+      "PackagePath": "staticwebassets\\assets\\js\\config.js"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\js\\dashboards-analytics.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dashboards-analytics.js"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\js\\extended-ui-perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\extended-ui-perfect-scrollbar.js"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\js\\form-basic-inputs.js",
+      "PackagePath": "staticwebassets\\assets\\js\\form-basic-inputs.js"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\js\\pages-account-settings-account.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages-account-settings-account.js"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\js\\ui-modals.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ui-modals.js"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\js\\ui-popover.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ui-popover.js"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\js\\ui-toasts.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ui-toasts.js"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\vendor\\css\\core.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\css\\core.css"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\vendor\\css\\pages\\page-account-settings.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\css\\pages\\page-account-settings.css"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\vendor\\css\\pages\\page-auth.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\css\\pages\\page-auth.css"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\vendor\\css\\pages\\page-icons.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\css\\pages\\page-icons.css"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\vendor\\css\\pages\\page-misc.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\css\\pages\\page-misc.css"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\vendor\\css\\theme-default.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\css\\theme-default.css"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\vendor\\fonts\\boxicons.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fonts\\boxicons.css"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\vendor\\fonts\\boxicons\\boxicons.eot",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fonts\\boxicons\\boxicons.eot"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\vendor\\fonts\\boxicons\\boxicons.svg",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fonts\\boxicons\\boxicons.svg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\vendor\\fonts\\boxicons\\boxicons.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fonts\\boxicons\\boxicons.woff"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\vendor\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\vendor\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\js\\helpers.js"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\vendor\\js\\menu.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\js\\menu.js"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\vendor\\libs\\apex-charts\\apex-charts.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\apex-charts\\apex-charts.css"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\vendor\\libs\\apex-charts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\apex-charts\\apexcharts.js"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\vendor\\libs\\highlight\\highlight-github.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\highlight\\highlight-github.css"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\vendor\\libs\\highlight\\highlight.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\highlight\\highlight.css"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\vendor\\libs\\highlight\\highlight.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\highlight\\highlight.js"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\vendor\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\vendor\\libs\\masonry\\masonry.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\masonry\\masonry.js"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\assets\\vendor\\libs\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\popper\\popper.js"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\build-config.js",
+      "PackagePath": "staticwebassets\\build-config.js"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\fonts\\boxicons.scss",
+      "PackagePath": "staticwebassets\\fonts\\boxicons.scss"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\gulpfile.js",
+      "PackagePath": "staticwebassets\\gulpfile.js"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Asagi.jpg",
+      "PackagePath": "staticwebassets\\img\\Asagi.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Asagi01.jpg",
+      "PackagePath": "staticwebassets\\img\\Asagi01.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Asagi02.jpg",
+      "PackagePath": "staticwebassets\\img\\Asagi02.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Asagi03.jpg",
+      "PackagePath": "staticwebassets\\img\\Asagi03.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Asagi04.jpg",
+      "PackagePath": "staticwebassets\\img\\Asagi04.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Asagi05.jpg",
+      "PackagePath": "staticwebassets\\img\\Asagi05.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Asagi06.jpg",
+      "PackagePath": "staticwebassets\\img\\Asagi06.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Asagi07.jpg",
+      "PackagePath": "staticwebassets\\img\\Asagi07.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Asagi08.jpg",
+      "PackagePath": "staticwebassets\\img\\Asagi08.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Asagi09.jpg",
+      "PackagePath": "staticwebassets\\img\\Asagi09.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Asagi10.jpg",
+      "PackagePath": "staticwebassets\\img\\Asagi10.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Asagi11.jpg",
+      "PackagePath": "staticwebassets\\img\\Asagi11.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Bekko01.jpg",
+      "PackagePath": "staticwebassets\\img\\Bekko01.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Bekko02.jpg",
+      "PackagePath": "staticwebassets\\img\\Bekko02.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Bekko03.jpg",
+      "PackagePath": "staticwebassets\\img\\Bekko03.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Bekko04.jpg",
+      "PackagePath": "staticwebassets\\img\\Bekko04.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Bekko05.jpg",
+      "PackagePath": "staticwebassets\\img\\Bekko05.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Bekko06.jpg",
+      "PackagePath": "staticwebassets\\img\\Bekko06.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Chagoi01.jpg",
+      "PackagePath": "staticwebassets\\img\\Chagoi01.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Chagoi02.jpg",
+      "PackagePath": "staticwebassets\\img\\Chagoi02.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Chagoi04.jpg",
+      "PackagePath": "staticwebassets\\img\\Chagoi04.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Chagoi05.jpg",
+      "PackagePath": "staticwebassets\\img\\Chagoi05.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Chagoi06.jpg",
+      "PackagePath": "staticwebassets\\img\\Chagoi06.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Chagoi07.jpg",
+      "PackagePath": "staticwebassets\\img\\Chagoi07.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Chagoi08.jpg",
+      "PackagePath": "staticwebassets\\img\\Chagoi08.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Couple Sanke.jpg",
+      "PackagePath": "staticwebassets\\img\\Couple Sanke.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Couple Tancho.jpg",
+      "PackagePath": "staticwebassets\\img\\Couple Tancho.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Doitsu Showa.jpg",
+      "PackagePath": "staticwebassets\\img\\Doitsu Showa.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\DoitsuChagoi01.jpg",
+      "PackagePath": "staticwebassets\\img\\DoitsuChagoi01.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\DoitsuChagoi02.jpg",
+      "PackagePath": "staticwebassets\\img\\DoitsuChagoi02.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\HiUtsuri01.jpg",
+      "PackagePath": "staticwebassets\\img\\HiUtsuri01.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\HiUtsuri02.jpg",
+      "PackagePath": "staticwebassets\\img\\HiUtsuri02.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\HikariUtsuri01.jpg",
+      "PackagePath": "staticwebassets\\img\\HikariUtsuri01.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\HikariUtsuri02.jpg",
+      "PackagePath": "staticwebassets\\img\\HikariUtsuri02.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Karashi01.jpg",
+      "PackagePath": "staticwebassets\\img\\Karashi01.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Karashi02.jpg",
+      "PackagePath": "staticwebassets\\img\\Karashi02.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Karashi03.jpg",
+      "PackagePath": "staticwebassets\\img\\Karashi03.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Karashi04.jpg",
+      "PackagePath": "staticwebassets\\img\\Karashi04.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Karashi05.jpg",
+      "PackagePath": "staticwebassets\\img\\Karashi05.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Karashi06.jpg",
+      "PackagePath": "staticwebassets\\img\\Karashi06.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Karashi07.jpg",
+      "PackagePath": "staticwebassets\\img\\Karashi07.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Karashi08.jpg",
+      "PackagePath": "staticwebassets\\img\\Karashi08.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Karashi09.jpg",
+      "PackagePath": "staticwebassets\\img\\Karashi09.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Karashi10.jpg",
+      "PackagePath": "staticwebassets\\img\\Karashi10.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Karashi11.jpg",
+      "PackagePath": "staticwebassets\\img\\Karashi11.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\KiUtsuri01.jpg",
+      "PackagePath": "staticwebassets\\img\\KiUtsuri01.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\KiUtsuri02.jpg",
+      "PackagePath": "staticwebassets\\img\\KiUtsuri02.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Kumonryu01.jpg",
+      "PackagePath": "staticwebassets\\img\\Kumonryu01.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Kumonryu02.jpg",
+      "PackagePath": "staticwebassets\\img\\Kumonryu02.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Kumonryu03.jpg",
+      "PackagePath": "staticwebassets\\img\\Kumonryu03.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Kumonryu04.jpg",
+      "PackagePath": "staticwebassets\\img\\Kumonryu04.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Kumonryu05.jpg",
+      "PackagePath": "staticwebassets\\img\\Kumonryu05.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Kumonryu06.jpg",
+      "PackagePath": "staticwebassets\\img\\Kumonryu06.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Kumonryu07.jpg",
+      "PackagePath": "staticwebassets\\img\\Kumonryu07.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Kumonryu08.jpg",
+      "PackagePath": "staticwebassets\\img\\Kumonryu08.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Kumonryu09.jpg",
+      "PackagePath": "staticwebassets\\img\\Kumonryu09.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Maruten Kohaku.jpg",
+      "PackagePath": "staticwebassets\\img\\Maruten Kohaku.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Murasei Mizuho Ogon.jpg",
+      "PackagePath": "staticwebassets\\img\\Murasei Mizuho Ogon.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Ogon.png",
+      "PackagePath": "staticwebassets\\img\\Ogon.png"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Ogon1.jpg",
+      "PackagePath": "staticwebassets\\img\\Ogon1.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Platinum Ogon.jpg",
+      "PackagePath": "staticwebassets\\img\\Platinum Ogon.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Sanke1.jpg",
+      "PackagePath": "staticwebassets\\img\\Sanke1.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Sanke2.jpg",
+      "PackagePath": "staticwebassets\\img\\Sanke2.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Sanke3.jpg",
+      "PackagePath": "staticwebassets\\img\\Sanke3.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\ShiroBekko01.jpg",
+      "PackagePath": "staticwebassets\\img\\ShiroBekko01.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\ShiroUtsuri01.jpg",
+      "PackagePath": "staticwebassets\\img\\ShiroUtsuri01.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\ShiroUtsuri02.jpg",
+      "PackagePath": "staticwebassets\\img\\ShiroUtsuri02.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Showa.jpg",
+      "PackagePath": "staticwebassets\\img\\Showa.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Showa1.jpg",
+      "PackagePath": "staticwebassets\\img\\Showa1.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Showa2.jpg",
+      "PackagePath": "staticwebassets\\img\\Showa2.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Showa3.jpg",
+      "PackagePath": "staticwebassets\\img\\Showa3.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Shusui1.jpg",
+      "PackagePath": "staticwebassets\\img\\Shusui1.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Shusui2.jpg",
+      "PackagePath": "staticwebassets\\img\\Shusui2.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Shusui3.jpg",
+      "PackagePath": "staticwebassets\\img\\Shusui3.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Snake01.jpg",
+      "PackagePath": "staticwebassets\\img\\Snake01.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Snake02.jpg",
+      "PackagePath": "staticwebassets\\img\\Snake02.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\SuperJumbo01.jpg",
+      "PackagePath": "staticwebassets\\img\\SuperJumbo01.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Tancho Showa.jpg",
+      "PackagePath": "staticwebassets\\img\\Tancho Showa.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Tancho1.jpg",
+      "PackagePath": "staticwebassets\\img\\Tancho1.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Tancho2.jpg",
+      "PackagePath": "staticwebassets\\img\\Tancho2.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Tancho3.jpg",
+      "PackagePath": "staticwebassets\\img\\Tancho3.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Yamabuki Ogon1.jpg",
+      "PackagePath": "staticwebassets\\img\\Yamabuki Ogon1.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Yamabuki Ogon2.jpg",
+      "PackagePath": "staticwebassets\\img\\Yamabuki Ogon2.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\Yamabuki Ogon3.jpg",
+      "PackagePath": "staticwebassets\\img\\Yamabuki Ogon3.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\anh1.jpg",
+      "PackagePath": "staticwebassets\\img\\anh1.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\anh2.jpg",
+      "PackagePath": "staticwebassets\\img\\anh2.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\anh3.jpg",
+      "PackagePath": "staticwebassets\\img\\anh3.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\avatar 1.png",
+      "PackagePath": "staticwebassets\\img\\avatar 1.png"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\back.jpg",
+      "PackagePath": "staticwebassets\\img\\back.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\back1.jpg",
+      "PackagePath": "staticwebassets\\img\\back1.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\bgbody.jpg",
+      "PackagePath": "staticwebassets\\img\\bgbody.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\button.png",
+      "PackagePath": "staticwebassets\\img\\button.png"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\cars.png",
+      "PackagePath": "staticwebassets\\img\\cars.png"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\kohaku1.jpg",
+      "PackagePath": "staticwebassets\\img\\kohaku1.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\kohaku2.jpg",
+      "PackagePath": "staticwebassets\\img\\kohaku2.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\kohaku3.jpg",
+      "PackagePath": "staticwebassets\\img\\kohaku3.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\koi.png",
+      "PackagePath": "staticwebassets\\img\\koi.png"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\koi2.jpg",
+      "PackagePath": "staticwebassets\\img\\koi2.jpg"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\logo2.webp",
+      "PackagePath": "staticwebassets\\img\\logo2.webp"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\next.png",
+      "PackagePath": "staticwebassets\\img\\next.png"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\prev.png",
+      "PackagePath": "staticwebassets\\img\\prev.png"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\star1.png",
+      "PackagePath": "staticwebassets\\img\\star1.png"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\user.png",
+      "PackagePath": "staticwebassets\\img\\user.png"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\user.webp",
+      "PackagePath": "staticwebassets\\img\\user.webp"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\img\\user2.png",
+      "PackagePath": "staticwebassets\\img\\user2.png"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\js\\helpers.js"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\js\\menu.js",
+      "PackagePath": "staticwebassets\\js\\menu.js"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "D:\\CNPM\\KoiShopProject\\KoiShopProject\\KoiShopProject.WebApplication\\wwwroot\\webpack.config.js",
+      "PackagePath": "staticwebassets\\webpack.config.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.KoiShopProject.WebApplication.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.KoiShopProject.WebApplication.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.KoiShopProject.WebApplication.props",
+      "PackagePath": "build\\KoiShopProject.WebApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.KoiShopProject.WebApplication.props",
+      "PackagePath": "buildMultiTargeting\\KoiShopProject.WebApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.KoiShopProject.WebApplication.props",
+      "PackagePath": "buildTransitive\\KoiShopProject.WebApplication.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
